@@ -1,0 +1,6 @@
+{
+  "name": "UserList",
+  "main": "UserList.js",
+  "author": "Joseph Brumaghim <joe@josephbrumaghim.com>",
+  "description": "A Plugin to allow for a users to see other users in chatter"
+}
